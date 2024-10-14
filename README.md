@@ -1,13 +1,7 @@
-- 👋 Hi, I’m @JeanVillamar
-- 👀 I’m interested in Informatic security
-- 🌱 I’m currently learning Informatic security
-- 📫 How to reach me jfvillam@espol.edu.ec
-
-
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<h1 align="center">Hi 👋, I'm Supravat Mondal</h1>
-<h3 align="center">A passionate Programmer from India</h3>
+<h1 align="center">👋 Hi, I'm Jean Villamar</h1>
+<h3 align="center">A passionate Programmer from Ecuador</h3>
 
 
 <p align="center"> 
@@ -37,17 +31,15 @@
 
 <br><br>
 
-🔭 I’m currently working on **Magento 2**
+🔭 I’m currently working on **Grupo Difare**
 
-🌱 I’m currently learning **Magento 2 cloud**
+🌱 I’m currently learning **Vue.js**
 
 👨‍💻 All of my projects are available at [Supravat's works](https://supravatm.github.io/projects)
 
-💬 Ask me about **PHP, Magento, LAMP**
+📫 How to reach me **jeanfrank_2020@hotmail.com**
 
-📫 How to reach me **supravt.com@gmail.com**
-
-📄 Know about my experiences [my experiences](http://supravatm.github.io)
+📄 Know about my experiences and projects[my experiences, projects](http://supravatm.github.io)
 
 ⚡ Fun fact **I think I'm funny**
 
@@ -114,7 +106,9 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src='https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif' width='60'> <em><b>I enjoy connecting with interesting people,</b> so if you feel like saying hi, <b>I'd love to get to know you better!</b> :)</em>
+
+
 ------
 Credit: [supravatm](https://github.com/supravatm)
 
